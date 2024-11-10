@@ -1,0 +1,16 @@
+0 hello
+1 hope
+2 i love you
+3 okay
+4 agreement
+5 disagreement
+6 call me
+7 point down
+8 point right
+9 point left
+10 thumbs down
+11 thumbs up
+12 victory
+13 wish to prosper
+14 rock on
+ 
